@@ -1,5 +1,0 @@
-Real numbers: Real numbers are those can number which can be represented in the number line.
-
-Real numbers can be classified into rational & irrational numbers
-
-Rational number: It is in p/q form and the answer of the fraction is not 0 it does not have common factor.
