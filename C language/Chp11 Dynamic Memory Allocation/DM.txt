@@ -1,0 +1,6 @@
+27
+stack                   heap
+parameters              Dynamic Memory
+destroys when           Shares the area 
+function is             when function is
+returned                return

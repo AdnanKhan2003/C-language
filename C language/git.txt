@@ -1,0 +1,47 @@
+git init
+git status
+git add
+git commit
+ls
+ls -a (to see hidden files)
+(.)files are all hidden files in linux
+pwd
+cd
+cd..
+mkdir
+touch
+git restore --stage <filename>
+git rm --cached
+git commit
+git commit -m "message"
+git log
+git checkout -f
+git init
+git config user.name "someone"
+git config user.email "someone@someplace.com"
+git add *
+git commit -m "some init msg"
+rm -rf names.txt 
+copy id of the commit to get the content of it and delete all the above commits
+(git reset <commit id>)
+git stash (after putting a file in staging area)
+git stash pop
+git stash clear
+git remote add origin <link>  remote(working with url) add (put link) origin(name)
+git remote -v (all the url attached to this folders)
+git push origin master
+directed accylic graph
+git branch feature
+git checkout <branch>
+Head: all the commits will be on the branch in which head is pointing
+git merge <branchname>
+git push origin
+git push origin master  fatal: helper error (-1): User cancelled dialog.
+git clone <link>
+git fetch --all --prune
+git reset --hard upstream/main
+
+
+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
+git fetch --all --prune
+git reset --hard upstream/main 
